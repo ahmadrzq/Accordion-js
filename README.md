@@ -1,1 +1,1 @@
-# Accordion-js
+This is accordion build using javascript
